@@ -1,0 +1,12 @@
+1 th Student's Data
+
+Name: Anas Ibn Belal
+Roll: 372
+CGPA: 3.00
+------------------------------------
+2 th Student's Data
+
+Name: Sifat
+Roll: 368
+CGPA: 4.00
+------------------------------------
